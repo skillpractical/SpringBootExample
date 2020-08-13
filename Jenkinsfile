@@ -3,7 +3,7 @@ pipeline {
 	stages {
 		stage('One') {
 			steps {
-				echo 'Hi, this is Soumitra from roytuts'
+				echo 'Welcome to SkillPractical!'
 			}
 		}
 		
